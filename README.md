@@ -1,4 +1,3 @@
-# project
-3343project
+# Project 3343
 
-hello everyone
+This is a library system implemented by a group of 5 students during year 2.
